@@ -1,2 +1,0 @@
-# fluffy-octo-potato
-Translations
